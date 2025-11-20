@@ -19,11 +19,11 @@ There were many moments while reading articles, blogs, and documentation where a
 
 Word highlighted with inline definition tooltip:
 
-![Page Dictionary result 1](Page-Dictionary-Result-1.jpg)
+![Page Dictionary result 1](Page-Dictionary-Result-1.png)
 
 Another example tooltip while reading an article:
 
-![Page Dictionary result 2](Page-Dictionary-Result-2.jpg)
+![Page Dictionary result 2](Page-Dictionary-Result-2.png)
 
 ---
 

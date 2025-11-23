@@ -18,6 +18,14 @@
       "48": "icons/icon48.png"
     }
   },
+  "commands": {
+  "toggle-dictionary-mode": {
+    "suggested_key": {
+      "default": "Ctrl+Shift+Z"
+    },
+    "description": "Toggle dictionary mode"
+  }
+  },
 
   "permissions": [
     "scripting",

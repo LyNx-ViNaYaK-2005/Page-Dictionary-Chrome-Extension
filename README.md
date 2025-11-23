@@ -1,8 +1,9 @@
 # Page Dictionary
 
-Page Dictionary is a Chrome extension that lets you freeze the current page, highlight any word, and instantly see its meaning in a tooltip – without opening a new tab or losing your reading flow.
+Page Dictionary is a Chrome extension that lets you freeze the current page, highlight any word, and instantly see its meaning in a tooltip—without opening a new tab or losing your reading flow.
 
-There were many moments while reading articles, blogs, and documentation where an unfamiliar word appeared, and looking it up meant switching tabs, searching, and then trying to regain focus. Page Dictionary was created to remove that friction and keep reading continuous and distraction‑free.
+This extension was built to solve a common frustration faced while reading articles, blogs, or documentation: coming across unfamiliar words meant switching tabs to search for definitions and then trying to regain focus. Page Dictionary removes that friction, keeping your reading experience continuous and distraction-free.
+
 
 ---
 ## Keyboard Shortcut

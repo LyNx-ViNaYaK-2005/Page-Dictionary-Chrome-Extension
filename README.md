@@ -5,6 +5,25 @@ Page Dictionary is a Chrome extension that lets you freeze the current page, hig
 There were many moments while reading articles, blogs, and documentation where an unfamiliar word appeared, and looking it up meant switching tabs, searching, and then trying to regain focus. Page Dictionary was created to remove that friction and keep reading continuous and distraction‑free.
 
 ---
+## Keyboard Shortcut
+
+Page Dictionary now supports a convenient keyboard shortcut!
+
+**Default shortcut:**  
+`Ctrl` + `Shift` + `Z` — toggles dictionary mode on any page.
+
+- You can use this shortcut instead of clicking the extension icon.
+- To change the shortcut, go to [`chrome://extensions/shortcuts`](chrome://extensions/shortcuts) in your browser.
+
+---
+
+## Usage
+
+1. Click the Page Dictionary toolbar icon **or** press `Ctrl+Shift+Z` to activate dictionary mode.
+2. The page will dim and an “Exit dictionary mode” button appears.
+3. Select any word to see a tooltip with its definition.
+4. Click the tooltip to dismiss it, or click “Exit dictionary mode” to return the page to normal.
+
 
 ## Features
 
@@ -60,17 +79,6 @@ The extension is built using Chrome Extensions Manifest V3:
 3. Enable **Developer mode** (top‑right toggle).
 4. Click **Load unpacked** and select this project folder.
 5. Pin **Page Dictionary** from the extensions menu so the icon is always visible.
-
----
-
-## Usage
-
-1. Open any webpage with text (articles, documentation, blogs, etc.).
-2. Click the **Page Dictionary** toolbar icon.
-- The page will dim, and an “Exit dictionary mode” button will appear.
-3. Select a word on the page.
-- A tooltip will appear near your cursor showing the word, part of speech, and its definition.
-4. Click the tooltip to dismiss it, or click “Exit dictionary mode” to return the page to normal.
 
 ---
 
